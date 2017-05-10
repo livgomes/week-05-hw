@@ -27,3 +27,6 @@ Another issue I am having is trying to remember all the different elements we ha
 ### Future Disscussion
 
 I am really enjoying working with Html and am looking forwrd to discovering more as the class goes on.
+
+Screenshot
+![screenshot jpeg](https://cloud.githubusercontent.com/assets/25446352/25881243/0e61f8e4-34f9-11e7-8639-8ac5bf80061a.png)
